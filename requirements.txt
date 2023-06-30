@@ -1,0 +1,5 @@
+wordcloud==1.9.2
+statsmodels
+autoviz
+pycaret
+pandas_profiling==3.6.6
